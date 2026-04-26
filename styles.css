@@ -1546,6 +1546,12 @@ textarea.error {
     margin: 0 auto;
   }
 
+  .portrait-frame {
+    aspect-ratio: 1 / 1;
+    width: 160px;
+    margin: 0 auto;
+  }
+
   .about-stats {
     flex-direction: column;
   }
